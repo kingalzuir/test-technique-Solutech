@@ -1,6 +1,6 @@
-Solution Global:
+Solution Globale:
 
-    Je proposerais un site internet aux clients pour que les utilisateurs puissent faire leurs achats en linge.
+    Je proposerais un site internet aux clients pour que les utilisateurs puissent faire leurs achats en ligne.
     Je mettrais en avant deux boutons:
     - Le premier ( "Acheter") amènerait au pannier pour faciliter l'accès à l'achat du compte actuel. 
     - Le deuxième pour appliquer des filtres. Le plus important est un filtre pour voir les articles disponibles 
